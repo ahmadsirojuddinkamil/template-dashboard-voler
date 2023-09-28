@@ -1,17 +1,51 @@
-# BBC News Website - Technology Part
-This project is the complete technology part of the BBC News Website. 
-### See this project as a video : [YouTube](https://youtu.be/SRpgUV4lHyg)
-<img src="images/snap.PNG" width="100%" height="100%"/>
 
-## Built with
-- HTML5
-- CSS3
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/zuramai/voler/blob/master/dist/assets/images/favicon.svg?raw=true" alt="Stisla logo" width="75" height="75">
+  </a>
+</p>
 
-This project is the output of my hard working. To develop your skill, there is no way without practicing. I developed this
-for practicing purpose.
+<h1 align="center">Voler</h1>
+<div align="center">
+  Voler is a Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5 Alpha. No jQuery dependency.
+</div>
+<span align="center">
 
-## Made By
-[Abdur Rahman Robin](https://github.com/robin3317)
-- [Facebook](https://facebook.com/robin4java)
-- [Twitter](https://twitter.com/robin4java)
-- [Linkedin](https://www.linkedin.com/in/robin4java/)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
+![GitHub last commit](https://img.shields.io/github/last-commit/zuramai/voler.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
+[![License](https://img.shields.io/github/license/zuramai/voler.svg)](LICENSE)
+![npm version](https://badge.fury.io/js/yarn.svg)
+</span>
+
+![Voler dashboard](https://github.com/zuramai/voler/blob/master/screenshot.png?raw=true)
+
+## Installation
+1. Clone this repository.
+```bash
+git clone https://github.com/zuramai/voler
+```
+2. Open ```dist/index.html``` in browser.
+
+## Demo
+You can open the demo <a href="http://zuramai.github.io/voler/dist" target="_blank">here</a>
+
+## Contributing
+
+- Fork it ( https://github.com/zuramai/voler/fork )
+- Create your feature branch (`git checkout -b my-new-feature`)
+- Commit your changes (`git commit -am 'Add some feature'`)
+- Push to the branch (`git push origin my-new-feature`)
+- Create a new Pull Request
+
+### Note
+- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead.
+- Since we use Nunjucks, if you want to make changes to the HTML structure, make sure you change the source file (Nunjucks) located in `src`.
+
+## License
+Voler is under MIT License
+
+## About the Author
+Voler is created by <a href="http://ahmadsaugi.com">Ahmad Saugi</a>. You can donate me at <a href="https://trakteer.id/ahmad-saugi">Trakteer</a>
+
+
